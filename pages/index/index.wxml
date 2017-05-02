@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<import src="../../components/scroll-to-delete/index.wxml"/>
+<view class="container">
+  <view class="section__title">horizontal scroll</view>
+  <template is="scroll-to-delete"/>
+</view>

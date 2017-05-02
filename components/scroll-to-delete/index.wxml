@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<template name="scroll-to-delete">
+    <view class="box">
+      <scroll-view class="scroll-view_H" scroll-x="true" scroll-with-animation="true">
+        <view class="item">message</view>
+        <view class="holder">holder</view>
+      </scroll-view>
+      <view class="delete">删除</view>
+    </view>
+</template>

@@ -1,0 +1,2 @@
+/**index.wxss**/
+@import "../../components/scroll-to-delete/index.wxss"
